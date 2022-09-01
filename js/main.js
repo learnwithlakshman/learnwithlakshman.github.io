@@ -1,4 +1,5 @@
 
+alert("loaded js");
 // let baseUrl = "http://localhost:8080/team/stats"
 let baseUrl = "https://lwl-ipl-stats.herokuapp.com/team/stats"
 // Load the Visualization API and the corechart package.
